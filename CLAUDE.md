@@ -47,7 +47,7 @@ series · `career/` résumé notes, applications, target roles · `reading/` pap
 | | |
 |---|---|
 | **Name** | Holden Spitznagle |
-| **Studies** | Economics student, [school, year, expected graduation] |
+| **Studies** | Economics student, sophomore at FIU (Miami); plans to transfer for fall 2027 |
 | **Also** | Certified personal trainer |
 | **Founder of** | Morph, a live iOS health app (§4) |
 | **Positioning line** | **"Econ student. Personal trainer. Building Morph."** |
@@ -386,7 +386,7 @@ It doesn't replace them.
 
 | Item | Status |
 |---|---|
-| School, year, graduation date | [fill in school]. Freshman; plans to transfer for fall 2027 |
+| School, year, graduation date | Sophomore at Florida International University (FIU), Miami. Plans to transfer for fall 2027. Timeline and payoff plan: `career/research-payoff-plan.md` |
 | First research question | **Decided 2026-11-04: GLP-1s and exercise** (substitutes or complements?). Part of a wider GLP-1 agenda: `research/glp1-agenda.md` |
 | Understanding America Study data access | Checked 2026-10-26. Free; needs a school email, a data user agreement and **a faculty signature** (any professor willing to vouch for safe data handling, not necessarily an advisor). Unknown: smartwatch access for students and how many GLP-1 users have it. Next: browse the Interactive Data Explorer (no login), then ask a professor to sign. |
 | Second project | Trade business consolidation (South Florida HVAC roll-ups). Main focus once the spring internship starts. Meanwhile: save HVAC business-for-sale listings weekly. `research/trade-consolidation/` |
