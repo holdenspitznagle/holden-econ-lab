@@ -2,6 +2,21 @@
 
 *Set 2026-11-04. Holden: sophomore at FIU, transferring for fall 2027.*
 
+## The goal (set by Holden, 2026-11-04)
+
+**Credibility, network strength and recognition.** Every step below should serve
+one of the three. Credibility comes first: recognition built on a shaky claim backfires.
+
+| Goal | What builds it | Concrete moves | Track |
+|---|---|---|---|
+| **Credibility** | Correct work, faculty involvement, a real venue | Faculty feedback on the draft; every number sourced; FIU research conference; undergrad journal; working paper posted | Professor feedback rounds; venues accepted |
+| **Network** | Outreach with something to give | Email cited authors with the finding; the UAS team at USC; GLP-1 economists; health-econ grad students; HVAC owners and PE people via the trades paper | People contacted, replies, calls |
+| **Recognition** | Visibility of the work, during and after | Share progress publicly as you go; one striking chart; FIU news office story pitch; posts on LinkedIn, Instagram, X; pitch reporters covering GLP-1s once results are solid | Followers, shares, inbound messages, press |
+
+**Main shift:** don't wait until the paper is finished to be visible. Share the
+question, the data hunt and early charts (honestly labeled as early). People follow
+a project, not just a result.
+
 ## Timeline
 
 | When | GLP-1 paper | Trades paper | Transfer and career |
