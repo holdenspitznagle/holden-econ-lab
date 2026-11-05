@@ -40,6 +40,24 @@ signing a Data Use Agreement")
 - [ ] Does UAS have self-reported exercise questions in nearby waves?
 - [ ] Literature check: has anyone already done GLP-1s and exercise?
 
+## Other datasets (checked 2026-11-05)
+
+| Dataset | GLP-1 info | Activity info | Access | Role |
+|---|---|---|---|---|
+| **Understanding America Study** | Use, reason, source; 3 waves (2024–25), same people | Smartwatch (steps etc.); survey items to check | Free + faculty signature | **Core** |
+| **National Health Interview Survey (NHIS) 2024** | "Other than insulin, injectable medications to lower blood sugar or lose weight" (Ozempic, Wegovy, Mounjaro…). Published estimates cover adults with diagnosed diabetes; check whether non-diabetics were asked | Self-reported activity; check it ran in 2024 | **Free, public, no signature** | Backup / first chart; one-time snapshot, so weaker design |
+| **NIH All of Us** | Health records (prescriptions) | Fitbit data | School must be registered; check FIU | **The ENDO 2026 study used it** (753 of 1,950 with enough wearable data). Know it; UAS is the differentiator |
+| **Medical Expenditure Panel Survey** | Prescribed drugs | Limited | Free, public | Paper 2 (health care use) |
+| **Google Trends** | GLP-1 searches | Gym/fitness searches | Free | Content and context, not the main analysis |
+
+How UAS differs from the ENDO study: nationally representative survey; reason for use
+(diabetes vs. weight loss); access channel (prescription vs. compounding/online); a
+comparison group of never-users followed over the same months.
+
+Sources: NHIS GLP-1 brief https://www.cdc.gov/nchs/products/databriefs/db537.htm ·
+ENDO study data source https://www.news-medical.net/news/20260614/Physical-activity-declines-after-starting-GLP-1-obesity-treatments.aspx ·
+All of Us student projects https://support.researchallofus.org/hc/en-us/articles/12441477130516-Instruction-Guide-and-Tips-for-Student-Projects
+
 ## Why a faculty signature?
 UAS gives data only to accounts with someone accountable behind them. A student
 isn't an employee, so a faculty member vouches for safe handling. It is a
