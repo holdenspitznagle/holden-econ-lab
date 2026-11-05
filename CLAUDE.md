@@ -402,7 +402,7 @@ It doesn't replace them.
 | Understanding America Study data access | Checked 2026-10-26. Free; needs a school email, a data user agreement and **a faculty signature** (any professor willing to vouch for safe data handling, not necessarily an advisor). Unknown: smartwatch access for students and how many GLP-1 users have it. Next: browse the Interactive Data Explorer (no login), then ask a professor to sign. |
 | Second project | **Reshaped 2026-11-05:** "What is a trades business worth, and why do so many never sell?" National listings (HVAC, plumbing, electrical), no interviews. PE is context. Main focus from the spring internship. `research/trades-business-value/` |
 | Dropped / parked ideas | Remote work and exercise: largely done by Pabilonia & Vernon (BLS, 2025). Walking-to-work variant: Holden not a fan. Gym supply, exam season: parked. |
-| Professor contacts | None yet. Needed now for the UAS signature. Later: a health or labor economist (GLP-1) and an IO or finance professor (trades). |
+| Professor contacts | None yet. Needed now for the UAS signature. Later: a health or labor economist (GLP-1) and a finance or entrepreneurship professor (trades). |
 | Research route | Independent working paper first; thesis, independent study or RA role possible later |
 | Content series | Planned; Episode 1 written (in Morph's repo). GLP-1 agenda feeds episodes |
 | X account | Not created |
