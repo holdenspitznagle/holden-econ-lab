@@ -28,13 +28,17 @@
    Say what was done, what was decided, and the next step.
 3. Commit and push.
 
-### Open reminders (set 2026-11-05)
+### Open reminders (updated 2026-11-05)
 
-First-week tasks for the GLP-1 paper, in this order:
-- [ ] Watch the six Angrist videos (Mastering Econometrics, list in `research/glp1-exercise/process.md`)
-- [ ] Read Pischke, "How to get started on research in economics?"
-- [ ] Create a free IPUMS MEPS account (https://meps.ipums.org) for paper 1
-- On hold (2026-11-05): asking a professor to sign the UAS agreement. Only needed for the exercise paper, now paper 2.
+First-week tasks (about 3 hours total), in this order:
+- [ ] Watch the six Angrist videos (~1 hour; list in `research/glp1-exercise/process.md`). Teaches the before/after method both papers use.
+- [ ] Read Pischke, "How to get started on research in economics?" (~20 min)
+- [ ] Create a free IPUMS MEPS account (https://meps.ipums.org) for GLP-1 paper 1
+- [ ] Save your first 10 national trades listings in `research/trades-business-value/listings.csv` (~30 min). Starts the trades clock.
+- On hold: asking a professor to sign the UAS agreement (only for the exercise paper, now paper 2).
+
+Week 2 (after the above): 30-minute Google Scholar check ("MEPS" + "GLP-1" +
+"utilization"), then count new GLP-1 starters in MEPS. Full plan: `research/combined-plan.md`.
 
 **Where things go:** `research/<idea>/` one folder per paper idea · `content/` the
 series · `career/` résumé notes, applications, target roles · `reading/` paper notes ·
@@ -408,4 +412,4 @@ It doesn't replace them.
 | Content series | Planned; Episode 1 written (in Morph's repo). GLP-1 agenda feeds episodes |
 | X account | Not created |
 | Career path | Open (§7). Values research and strategy/operations equally. Trades project shows strategy, operations and business economics. |
-| Priority (Nov–Jan) | ~80% GLP-1, 20% trades; trades leads from the internship on. Checkpoint ~Dec 1 (see `research/README.md`). |
+| Priority (Nov–Jan) | ~80% GLP-1, 20% trades; trades leads from the internship on. Checkpoint ~Dec 1. Combined plan: `research/combined-plan.md` |

@@ -3,7 +3,7 @@
 One folder per paper idea. Each folder's `README.md` holds the question, why it's
 open, data, method sketch, status and next step.
 
-**The bigger picture:** [`glp1-agenda.md`](glp1-agenda.md), the GLP-1 research agenda.
+**Combined plan for both papers:** [`combined-plan.md`](combined-plan.md) · **GLP-1 agenda:** [`glp1-agenda.md`](glp1-agenda.md)
 
 | Idea | Status |
 |---|---|
