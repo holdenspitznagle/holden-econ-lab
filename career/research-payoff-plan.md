@@ -17,6 +17,24 @@ one of the three. Credibility comes first: recognition built on a shaky claim ba
 question, the data hunt and early charts (honestly labeled as early). People follow
 a project, not just a result.
 
+## Transfer-ready milestones (set 2026-11-05)
+
+Most fall transfer deadlines land around Feb–Mar; **the earliest deadline on your
+list sets every date below.** Check each school.
+
+| Level | GLP-1 paper 1 | Trades paper | How to list it |
+|---|---|---|---|
+| **Minimum** (worth mentioning) | Question set, data downloaded, first chart | Listings being collected | "Independent research in progress" |
+| **Strong** (aim here) | **Full draft done and read by a professor; working paper posted with a link** | ~100+ listings, clear question, tied to the spring internship | "Working paper, under revision with faculty feedback" + "Ongoing research on small-business valuation" |
+| **Bonus** | Professor writes your recommendation and mentions the paper | First descriptive chart | |
+
+**Target dates (adjust to your earliest deadline):** draft done ~Jan 15 → professor
+feedback ~Jan 31 → working paper posted at least 2 weeks before the first deadline.
+
+**Where it goes:** activities list, essay (the question, not the details), additional
+information, the professor's letter, and a research supplement if a school allows one.
+Describe the stage honestly.
+
 ## Timeline
 
 | When | GLP-1 paper | Trades paper | Transfer and career |

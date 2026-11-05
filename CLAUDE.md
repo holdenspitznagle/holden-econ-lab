@@ -37,7 +37,8 @@ First-week tasks (about 3 hours total), in this order:
 - [ ] Save your first 10 national trades listings in `research/trades-business-value/listings.csv` (~30 min). Starts the trades clock.
 - On hold: asking a professor to sign the UAS agreement (only for the exercise paper, now paper 2).
 
-Week 2 (after the above): 30-minute Google Scholar check ("MEPS" + "GLP-1" +
+Week 2 (after the above): **list target transfer schools with their deadlines** in
+`career/target-schools.md` (the earliest deadline sets the paper dates); 30-minute Google Scholar check ("MEPS" + "GLP-1" +
 "utilization"), then count new GLP-1 starters in MEPS. Full plan: `research/combined-plan.md`.
 
 **Where things go:** `research/<idea>/` one folder per paper idea · `content/` the
