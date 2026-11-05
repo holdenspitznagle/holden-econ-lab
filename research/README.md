@@ -8,17 +8,17 @@ open, data, method sketch, status and next step.
 | Idea | Status |
 |---|---|
 | `glp1-exercise/` | **Paper 1, decided 2026-11-04.** Needs a faculty signature for UAS data |
-| `trade-consolidation/` | Paper for the spring internship; saving listings now |
+| `trades-business-value/` | Paper 2: what a trades business is worth and why so many never sell. National listings, no interviews |
 | `remote-work-exercise/` | Parked: largely done by Pabilonia & Vernon (BLS, 2025) |
 
 ## Plan (set 2026-11-04)
 
-| When | GLP-1 paper | Trade consolidation |
+| When | GLP-1 paper | Trades business value |
 |---|---|---|
-| Nov | Browse UAS Data Explorer; get a faculty signature; register | Save listings weekly (~20 min) |
+| Nov | Browse UAS Data Explorer; get a faculty signature; register | Save national listings weekly (~20 min) |
 | Dec–Jan | Check sample size; run the analysis; write a 10–15 page draft | Keep saving listings |
 | Jan–Feb | Draft to a professor, revise | Keep saving; read FTC roll-up material |
-| Spring | Final edits only | Main focus: ownership map, listings analysis, owner interviews |
+| Spring | Final edits only | Main focus: code features, analysis, owner memo |
 
 Stop rule: the GLP-1 paper wraps up when the internship starts.
 
