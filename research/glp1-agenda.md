@@ -22,6 +22,27 @@ asks that question about one thing.
 | 5 | **The new blood-test market** | Complement | Memo or content | Company reports, industry news | Idea |
 | 6 | **Where the average person's health is headed** | All of the above | Essay | Built from 1–5 | After papers 1 and 2 |
 
+## Paper 1 vs. paper 2 (set 2026-11-05)
+
+| | **Paper 1: exercise** | **Paper 2: health care use** |
+|---|---|---|
+| Question | Do GLP-1 users exercise less or more? | Do GLP-1 users see doctors and get lab tests more? |
+| Economics idea | Substitutes vs. complements in **personal behavior** (Grossman, offsetting behavior) | Complements in **medical care**: does a drug create demand for monitoring and follow-ups? |
+| Outcome | Steps, activity minutes, self-reported exercise | Office visits, lab tests, prescriptions, spending |
+| Main data | Understanding America Study (faculty signature) | Medical Expenditure Panel Survey (free, public). Check: how far files lag; whether drug names are detailed enough. Also check whether UAS asks about doctor visits |
+| Method | Same people before vs. after starting, vs. never-users | Same idea; MEPS follows people for about two years |
+| Audience | Gyms, fitness, insurers, employers, the public | Insurers, health systems, policymakers, health tech, lab-testing companies |
+| Professor type | Health or behavioral economist | Health economist (health care use and costs) |
+| When | Nov 2026 – spring 2027 (FIU) | Fall 2027 onward (new school); possible honors thesis |
+
+**Keep them separate:** paper 1 doesn't study doctor visits; paper 2 doesn't study
+exercise. Each has one question and one main dataset.
+
+**How they connect:** paper 1 asks how people change; paper 2 asks how the health
+system responds. Together: "GLP-1s change behavior and health care use." Paper 1
+builds the skills (data cleaning, before/after design) that paper 2 reuses, so
+paper 2 goes faster.
+
 ## Notes on each
 
 **1. Exercise.** The core paper. Full breakdown in `glp1-exercise/README.md`.
