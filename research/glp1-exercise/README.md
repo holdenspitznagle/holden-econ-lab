@@ -111,6 +111,7 @@ with exercise programs); muscle loss risk; a repeatable one-line finding.
 measures for non-users in the same waves.
 
 ## Next step
+0. Step-by-step process, data links and videos: `process.md`.
 1. Browse the UAS Interactive Data Explorer (no login) for GLP-1 and activity items.
 2. Ask a professor to sign; register with a school email.
 3. First data check: how many GLP-1 users have smartwatch data.
