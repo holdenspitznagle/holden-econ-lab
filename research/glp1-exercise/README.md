@@ -1,5 +1,8 @@
 # GLP-1 drugs and exercise: substitutes or complements?
 
+> **Paper 2 / backup (2026-11-05).** Health care use went first. The UAS signature
+> is only needed if this paper resumes.
+
 **Puzzle:** a 2026 study of 1,950 adults with fitness-tracker data (ENDO 2026)
 found steps fell from 5,047 to 4,487 a day after starting a GLP-1, while industry
 surveys say users spend more on fitness. Do the drugs replace exercise or make it

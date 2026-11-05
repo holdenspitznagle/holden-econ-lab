@@ -33,7 +33,8 @@
 First-week tasks for the GLP-1 paper, in this order:
 - [ ] Watch the six Angrist videos (Mastering Econometrics, list in `research/glp1-exercise/process.md`)
 - [ ] Read Pischke, "How to get started on research in economics?"
-- [ ] Ask a professor to sign the UAS data agreement (do this this week, even if the first two slip: finals make professors hard to reach)
+- [ ] Create a free IPUMS MEPS account (https://meps.ipums.org) for paper 1
+- On hold (2026-11-05): asking a professor to sign the UAS agreement. Only needed for the exercise paper, now paper 2.
 
 **Where things go:** `research/<idea>/` one folder per paper idea · `content/` the
 series · `career/` résumé notes, applications, target roles · `reading/` paper notes ·
@@ -398,11 +399,11 @@ It doesn't replace them.
 | Item | Status |
 |---|---|
 | School, year, graduation date | Sophomore at Florida International University (FIU), Miami. Plans to transfer for fall 2027. Timeline and payoff plan: `career/research-payoff-plan.md` |
-| First research question | **Decided 2026-11-04: GLP-1s and exercise** (substitutes or complements?). Part of a wider GLP-1 agenda: `research/glp1-agenda.md` |
-| Understanding America Study data access | Checked 2026-10-26. Free; needs a school email, a data user agreement and **a faculty signature** (any professor willing to vouch for safe data handling, not necessarily an advisor). Unknown: smartwatch access for students and how many GLP-1 users have it. Next: browse the Interactive Data Explorer (no login), then ask a professor to sign. |
+| First research question | **Swapped 2026-11-05: GLP-1s and health care use** (doctor visits, lab tests, spending), MEPS, no signature. Companion memo: supplements and the GLP-1 economy. Exercise paper is paper 2 / backup. Agenda: `research/glp1-agenda.md` |
+| Understanding America Study data access | Checked 2026-10-26. Free; needs a school email, a data user agreement and **a faculty signature** (any professor willing to vouch for safe data handling, not necessarily an advisor). Unknown: smartwatch access for students and how many GLP-1 users have it. **On hold:** only needed for the exercise paper (now paper 2). |
 | Second project | **Reshaped 2026-11-05:** "What is a trades business worth, and why do so many never sell?" National listings (HVAC, plumbing, electrical), no interviews. PE is context. Main focus from the spring internship. `research/trades-business-value/` |
 | Dropped / parked ideas | Remote work and exercise: largely done by Pabilonia & Vernon (BLS, 2025). Walking-to-work variant: Holden not a fan. Gym supply, exam season: parked. |
-| Professor contacts | None yet. Needed now for the UAS signature. Later: a health or labor economist (GLP-1) and a finance or entrepreneurship professor (trades). |
+| Professor contacts | None yet. Wanted for feedback on the paper 1 draft (Jan); a signature only if the exercise paper resumes. Later: a health or labor economist (GLP-1) and a finance or entrepreneurship professor (trades). |
 | Research route | Independent working paper first; thesis, independent study or RA role possible later |
 | Content series | Planned; Episode 1 written (in Morph's repo). GLP-1 agenda feeds episodes |
 | X account | Not created |

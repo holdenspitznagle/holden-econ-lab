@@ -10,7 +10,7 @@ one of the three. Credibility comes first: recognition built on a shaky claim ba
 | Goal | What builds it | Concrete moves | Track |
 |---|---|---|---|
 | **Credibility** | Correct work, faculty involvement, a real venue | Faculty feedback on the draft; every number sourced; FIU research conference; undergrad journal; working paper posted | Professor feedback rounds; venues accepted |
-| **Network** | Outreach with something to give | Email cited authors with the finding; the UAS team at USC; GLP-1 economists; health-econ grad students; HVAC owners and PE people via the trades paper | People contacted, replies, calls |
+| **Network** | Outreach with something to give | Email cited authors with the finding; the MEPS team at AHRQ; GLP-1 economists; health-econ grad students; HVAC owners and PE people via the trades paper | People contacted, replies, calls |
 | **Recognition** | Visibility of the work, during and after | Share progress publicly as you go; one striking chart; FIU news office story pitch; posts on LinkedIn, Instagram, X; pitch reporters covering GLP-1s once results are solid | Followers, shares, inbound messages, press |
 
 **Main shift:** don't wait until the paper is finished to be visible. Share the
@@ -21,7 +21,7 @@ a project, not just a result.
 
 | When | GLP-1 paper | Trades paper | Transfer and career |
 |---|---|---|---|
-| **Nov 2026** | Browse UAS Data Explorer; get a faculty signature; register | Start weekly listings log | List target schools and each one's transfer deadline and requirements |
+| **Nov 2026** | IPUMS MEPS account; count new GLP-1 starters (paper 1: health care use) | Start weekly listings log | List target schools and each one's transfer deadline and requirements |
 | **Dec–Jan** (winter break) | Check sample size; run analysis; write a 10–15 page draft | Keep logging listings | Draft transfer essays; the paper is the story |
 | **Jan** | Send draft to the professor | Internship starts; trades becomes the main focus | Ask that professor for a transfer recommendation (give 4+ weeks) |
 | **Feb–Mar** | Revise; post a working-paper version | Ownership map from public data | Submit transfer applications (check each deadline) |

@@ -15,14 +15,14 @@ asks that question about one thing.
 
 | # | Project | Substitute or complement? | Format | Data | Status |
 |---|---|---|---|---|---|
-| 1 | **GLP-1s and exercise** | Unknown, which is the puzzle | Paper 1 | Understanding America Study (faculty signature) | **Active.** `glp1-exercise/` |
-| 2 | **GLP-1s and health care use** (doctor visits, blood tests) | Complement: monitoring, follow-ups | Paper 2 | Medical Expenditure Panel Survey (free, public) | Idea |
+| 1 | **GLP-1s and health care use** (doctor visits, blood tests) | Complement at first; maybe substitute later | **Paper 1** | Medical Expenditure Panel Survey (free, public) | **Active (swapped 2026-11-05).** `glp1-health-care-use/` |
+| 2 | **GLP-1s and exercise** | Unknown, which is the puzzle | Paper 2 / backup | Understanding America Study (faculty signature) | On hold. `glp1-exercise/` |
 | 3 | **Muscle and bone loss** | The cost if exercise falls | "Why it matters" in paper 1; content | Clinical literature | Use in paper 1 intro |
-| 4 | **The GLP-1 economy: protein supplements** | Complement: eating less, needing protein | Strategy memo; content | Earnings calls, Google Trends, product launches | Idea |
+| 4 | **The GLP-1 economy: protein supplements** | Complement: eating less, needing protein | **Companion memo to paper 1** | Earnings calls, Google Trends, product launches, Cornell study | Planned. `glp1-economy-memo/` |
 | 5 | **The new blood-test market** | Complement | Memo or content | Company reports, industry news | Idea |
 | 6 | **Where the average person's health is headed** | All of the above | Essay | Built from 1–5 | After papers 1 and 2 |
 
-## Paper 1 vs. paper 2 (set 2026-11-05)
+## Exercise vs. health care use (set 2026-11-05; order swapped the same day: health care use is now paper 1)
 
 | | **Paper 1: exercise** | **Paper 2: health care use** |
 |---|---|---|
