@@ -8,6 +8,9 @@ Miami-Dade first.
 **Role:** paper for the spring internship (Miami HVAC company, operations and
 growth). Main focus once the internship starts.
 
+**Step-by-step process, links and reading: [`process.md`](process.md).** Closest existing
+work: Totter (SSRN), a national HVAC PE case study. Your edge is a measured local market.
+
 ## Narrowed questions (doable for a first paper)
 - **Q1, ownership only:** map PE-backed HVAC ownership in Miami-Dade and measure
   concentration by area. Skip prices (mostly not public). Hard part: PE platforms

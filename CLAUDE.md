@@ -15,6 +15,10 @@
 ## Session ritual (every session)
 
 **Start:**
+0. **Check "Open reminders" below. If any item is unchecked, remind Holden of it
+   first, in the first lines of the first reply, before anything else, and ask if
+   it's done.** Tick an item and record the date only when Holden confirms it.
+   Keep reminding every session until then. Don't let a new topic bury it.
 1. Read §10 (status table) below.
 2. Read the latest entry in `log/` (newest date in the filename).
 
@@ -23,6 +27,13 @@
 2. Add a dated log entry: `log/YYYY-MM-DD.md` (if one exists for today, append to it).
    Say what was done, what was decided, and the next step.
 3. Commit and push.
+
+### Open reminders (set 2026-11-05)
+
+First-week tasks for the GLP-1 paper, in this order:
+- [ ] Watch the six Angrist videos (Mastering Econometrics, list in `research/glp1-exercise/process.md`)
+- [ ] Read Pischke, "How to get started on research in economics?"
+- [ ] Ask a professor to sign the UAS data agreement (do this this week, even if the first two slip: finals make professors hard to reach)
 
 **Where things go:** `research/<idea>/` one folder per paper idea · `content/` the
 series · `career/` résumé notes, applications, target roles · `reading/` paper notes ·
