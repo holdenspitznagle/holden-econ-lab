@@ -395,4 +395,5 @@ It doesn't replace them.
 | Research route | Independent working paper first; thesis, independent study or RA role possible later |
 | Content series | Planned; Episode 1 written (in Morph's repo). GLP-1 agenda feeds episodes |
 | X account | Not created |
-| Career path | Open (§7). Trades project points toward operations, growth and owning businesses |
+| Career path | Open (§7). Values research and strategy/operations equally. Trades project shows strategy, operations and business economics. |
+| Priority (Nov–Jan) | ~80% GLP-1, 20% trades; trades leads from the internship on. Checkpoint ~Dec 1 (see `research/README.md`). |
