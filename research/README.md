@@ -28,8 +28,7 @@ leads. GLP-1 goes first because it's time-sensitive (transfer applications, wint
 break), not because it's easier: it's the one with a gatekeeper.
 
 **Checkpoint ~Dec 1:** if there's no UAS access by then, or the GLP-1 sample is too
-small, swap: spend winter break on the trades listings and feature coding (or the NHIS backup) and
-map, and return to GLP-1 once access comes through.
+small, swap: spend winter break on the trades listings and feature coding (or the NHIS backup), and return to GLP-1 once access comes through.
 
 **Internship prep:** arrive knowing the market (who's been acquired, what
 businesses sell for, the main platforms).
